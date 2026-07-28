@@ -20,7 +20,7 @@ depending on python version^^^
 From there you should see the Command Line Interface like this:
 
 ```commandline
-nnamdimadakor@nnamdis-Mac-mini C950 % python3 Main.py
+esuljic@nnamdis-Mac-mini C950 % python3 Main.py
 
 	What would you like to do?
 
